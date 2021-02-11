@@ -1,12 +1,18 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+let myFirstName = 'andy'
+let myLastName = 'choe'
+let myBestFriend = 'jae'
+let mySentence = 'what time is it?'
+let myFavoriteNum = 413
+let myMentalAge = 500
+let myHeight = 70
+let myFavoriteYear = 1999
 
-
-
-
-
-
+let mySum = 3 + 1918 + 24 + 1
+let myProduct = 232 * 43 / 2 + 4
+let myHeightAndAge = myHeight + myMentalAge
 
 /*********************************************************************************************************************
 
